@@ -1,0 +1,2 @@
+This AI system collects personal data to improve user experience.
+The system may share data with third parties for analytics purposes.
